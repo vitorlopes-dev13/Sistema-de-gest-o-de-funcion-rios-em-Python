@@ -1,4 +1,5 @@
 # Sistema de Gestão de Funcionários em Python - V2.0
+  
 
 Projeto desenvolvido para consolidar conceitos fundamentais de Python com foco em organização de código e lógica de negócios.
 
@@ -25,8 +26,3 @@ Projeto desenvolvido para consolidar conceitos fundamentais de Python com foco e
 
 
 
-
-
-
-
-## Vitor Lopes
