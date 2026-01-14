@@ -23,6 +23,8 @@ Projeto desenvolvido para consolidar conceitos fundamentais de Python com foco e
 ## Tecnologia
 - Python 3
 
-
+##  Como executar
+```bash
+python main.py
 
 
